@@ -1,2 +1,4 @@
 # BrandAdvex
-World Company
+Advertise company
+Multimedia
+Design School
